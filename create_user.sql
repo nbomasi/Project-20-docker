@@ -1,0 +1,1 @@
+CREATE USER 'Admin'@'%' IDENTIFIED BY 'Password1'; GRANT ALL PRIVILEGES ON * . * TO 'toolingdb'@'%'; 
