@@ -113,6 +113,8 @@ docker run --network tooling_app_network --name mysql-client -it --rm mysql mysq
 ```
 **Image of mysql client:**
 
+![alt text]("D:\MY DESKTOP\CLOUD WORLD\Dare DevOps Project\DARE.live videos\Project20\Clientmysql.png")
+
 **Flags Explained:**
 --name gives the container a name
 -it runs in interactive mode and Allocate a pseudo-TTY
