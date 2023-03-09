@@ -113,7 +113,7 @@ docker run --network tooling_app_network --name mysql-client -it --rm mysql mysq
 ```
 **Image of mysql client:**
 
-![![Tux, the clientmysql]("D:\MY DESKTOP\CLOUD WORLD\Dare DevOps Project\DARE.live videos\Project20\Clientmysql.png")
+![Tux, the clientmysql]("D:\MY DESKTOP\CLOUD WORLD\Dare DevOps Project\DARE.live videos\Project20\Clientmysql.png")
 
 
 **Flags Explained:**
