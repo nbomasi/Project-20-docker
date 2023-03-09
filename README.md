@@ -113,7 +113,7 @@ docker run --network tooling_app_network --name mysql-client -it --rm mysql mysq
 ```
 **Image of mysql client:**
 
-![alt text]("D:\MY DESKTOP\CLOUD WORLD\Dare DevOps Project\DARE.live videos\Project20\Clientmysql.png")
+![alt text](Clientmysql.png)
 
 **Flags Explained:**
 --name gives the container a name
@@ -230,3 +230,5 @@ Final page result:
 
 
 The default email is test@gmail.com, the password is 12345 or you can check users' credentials stored in the toolingdb.user table.
+
+[def]: Clientmysql.png
